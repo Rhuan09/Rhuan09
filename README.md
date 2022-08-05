@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rhuan09
 - 👀 I’m interested in programming, specially in games and apps!!
 - 🌱 I’m currently learning C#, C++, Java, Lua and Unity
-- 💞️ I’m looking to collaborate on games creation atm.
+- 💞️ I’m looking to collaborate on apps(FrontEnd) and games creation atm.
 - 📫 How to reach me: rhuanalvesinocencio@gmail.com
 
 <!---
