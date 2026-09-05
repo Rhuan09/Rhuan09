@@ -38,14 +38,15 @@ Experienced in designing maintainable, high-performance software systems ranging
   - **Stack**: C#, .NET Core, ASP.NET Core Web API, HTML5 Canvas, JavaScript
   - Features custom graph models, admissible heuristic evaluation, and interactive web visualization.
 
+- 🏛️ **[TCC-Ilha_Anchieta](https://github.com/Rhuan09/TCC-Ilha_Anchieta)**
+  *Undergraduate capstone thesis: 3D interactive historical reconstruction and spatial exploration simulation of Ilha Anchieta.*
+  - **Stack**: C#, Unity, Universal Render Pipeline (URP), 3D Spatial Modeling
+  - Engineered an interactive 3D simulation recreating historical architectural heritage, terrain topography, and interactive narrative systems with standalone Windows and macOS builds.
+
 - 📱 **[Apt293](https://github.com/Rhuan09/Apt293)**
   *Household budgeting and shared expense tracking application for mobile devices.*
   - **Stack**: Flutter, Dart, BLoC Pattern, Firebase
   - Features reactive state management, categorized budget auditing (fixed & variable expenses), and asset tracking.
-
-- 🔢 **[AndroidCalculator](https://github.com/Rhuan09/AndroidCalculator)**
-  *Native Android calculator application built with a responsive interface and precision arithmetic handling.*
-  - **Stack**: Java, Android SDK, Gradle
 
 ---
 
